@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2l9DnHBWINQb3T6Y45dV7rjDJTTwlQjjaJ4qTXR9bh7qqkc9/HqIIdPH86e/8rLX0CtQt5y+UaHUSD3m3mH/vg==",
+  "dgSpecHash": "B5Lcv85ASFw5al0aGewAUwNTvKQ7QnK6lpiNb3AtR7x0NV1zVfjbhXlq6I0t4AxcMT7zpiQ2gprG6GJWJpC7sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\olive\\source\\repos\\ConsumirParcialComputo3\\ConsumirParcialComputo3.csproj",
+  "projectFilePath": "C:\\Users\\olive\\source\\repos\\ASP_NET_CORE\\ConsumirParcialComputo3\\ConsumirParcialComputo3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olive\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\olive\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

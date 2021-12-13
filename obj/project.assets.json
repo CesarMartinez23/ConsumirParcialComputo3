@@ -5286,11 +5286,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olive\\source\\repos\\ConsumirParcialComputo3\\ConsumirParcialComputo3.csproj",
+      "projectUniqueName": "C:\\Users\\olive\\source\\repos\\ASP_NET_CORE\\ConsumirParcialComputo3\\ConsumirParcialComputo3.csproj",
       "projectName": "ConsumirParcialComputo3",
-      "projectPath": "C:\\Users\\olive\\source\\repos\\ConsumirParcialComputo3\\ConsumirParcialComputo3.csproj",
+      "projectPath": "C:\\Users\\olive\\source\\repos\\ASP_NET_CORE\\ConsumirParcialComputo3\\ConsumirParcialComputo3.csproj",
       "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olive\\source\\repos\\ConsumirParcialComputo3\\obj\\",
+      "outputPath": "C:\\Users\\olive\\source\\repos\\ASP_NET_CORE\\ConsumirParcialComputo3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
